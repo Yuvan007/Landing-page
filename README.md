@@ -1,1 +1,1 @@
-# Landing-page
+Simple Landing-page project
